@@ -1,0 +1,12 @@
+Basic Python Libraries
+
+Pandas						: Read / Write /Extract - txt,csv,xls,dat files
+pyodbc						: Sql server Library connects the Data base Table and Read /Create Table 
+sqlalchemy					: Similar as pyodbc
+datetime						: system date and time
+os.path						: Read and locate the given file path 
+win32com.client				: Library to connect to Outlook and extract the attached files
+urllib							: Used to connect to servers ( shared network ,https etc)
+argparse						: Used to Schedule the job frequency  (ex: hours /days  )
+BackgroundScheduler		: Automate the code/scripts 
+
